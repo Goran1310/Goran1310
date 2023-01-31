@@ -5,8 +5,8 @@
 - 📫 How to reach me: +47 90665519 or lovincic@gmail.com
 - 🇰🇷 看板, English, Norwegian and Croatian
 - 📫 How to reach me:
-Discord: Goran#3474
-Twitter: @GoranLovincic
+- Discord: Goran#3474
+- Twitter: @GoranLovincic
 
 <!---
 Goran1310/Goran1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
