@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goran Lovincic,
-- 👀 I’m interested in learning JS, cloud, DevOps, scrum, Microsoft, ... 
+- 👀 I’m interested in learning JS, cloud, DevOps, scrum, Microsoft certification AZ-900, DP-900... 
 - 🌱 I’m currently learning JS, SQL, MySQL and studying to become a backend developer.
 - 💞️ I’m looking to collaborate on products/projects, apps, websites, databases.
 - 📫 How to reach me: +47 90665519 or lovincic@gmail.com
