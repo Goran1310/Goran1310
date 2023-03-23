@@ -8,7 +8,8 @@ Backend Developer Student
 *   ✉️  You can contact me at [lovincic@gmail.com](mailto:lovincic@gmail.com)
 *   🧠  I'm learning I'm learning Vue and Microsoft Azure
 *   🤝  I'm open to collaborating on I'm open to collaborating on interesting projects
-*   ⚡  I enjoy hiking, swimming, and anything else outdoors. Especially with my kids!!### Skills 
+*   ⚡  I enjoy hiking, swimming, and anything else outdoors. Especially with my kids!!
+*   ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,11 +28,9 @@ Backend Developer Student
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
+*   ### Socials
                   
-                  
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://www.github.com/Goran1310" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
