@@ -1,7 +1,7 @@
 Hi 👋 My name is Goran Lovincic
 ===============================
-
-Backend Developer Student
+JUNE23-    Test Engineer
+OCT22-OCT23 Backend Developer Student
 -------------------------
 
 *   🌍  I'm based in I'm based in Førde, Norway
